@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f7e5fd57-c673-40b9-d4a3-671b6bc9b892
 resourcetype: Document
 title: cq1_a.pdf
 uid: 7f49d6a8-51e4-0a04-41a5-9a02a3441ffa

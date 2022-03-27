@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 7855efef-bd04-44c5-81f6-c22962ae860c
 resourcetype: Document
 title: newpartiiia.pdf
 uid: 68fdd1a4-20a1-7a82-ae22-698c472cd43f

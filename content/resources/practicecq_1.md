@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f7e5fd57-c673-40b9-d4a3-671b6bc9b892
 resourcetype: Document
 title: practicecq_1.pdf
 uid: 88f19ea9-8365-199d-894c-07361f9a6b4c

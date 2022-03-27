@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: ec9fb676-30c0-4fc5-d6e7-6b181554bdf0
 resourcetype: Document
 title: syllbloomtaxon.pdf
 uid: 351f515b-b32e-0ea5-fe66-1f8317169220
