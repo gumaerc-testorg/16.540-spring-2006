@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: f7e5fd57-c673-40b9-d4a3-671b6bc9b892
 ---
@@ -16,15 +17,15 @@ Approximately eight short (~20 minute) "concept quizzes" will be given during cl
 
 ### Examples of Concept Quizzes
 
-Concept Quiz 1 ([PDF]({{< baseurl >}}/resources/cquiz1))
+Concept Quiz 1 ({{< resource_link dc88170c-d075-85e8-7538-86aa7aec78a7 "PDF" >}})
 
-Practice Concept Quiz 1 ([PDF]({{< baseurl >}}/resources/practicecq_1))
+Practice Concept Quiz 1 ({{< resource_link 88f19ea9-8365-199d-894c-07361f9a6b4c "PDF" >}})
 
-Practice Concept Quiz 2 ([PDF]({{< baseurl >}}/resources/practicecq_2))
+Practice Concept Quiz 2 ({{< resource_link 2d170b8f-0a0d-00ff-65e6-1a8e2e7407f6 "PDF" >}})
 
 Team Project
 ------------
 
 A team project on internal flow modeling will be assigned. The project will be on a topic you choose from a list of topics supplied by the instructors. The team project will count for 20% of the grade each.
 
-Project Description ([PDF]({{< baseurl >}}/resources/proj))
+Project Description ({{< resource_link caa3c781-44e5-8e77-0e16-7b8ab1d80a1a "PDF" >}})

@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 7855efef-bd04-44c5-81f6-c22962ae860c
 ---
@@ -29,9 +30,9 @@ IA
 {{< tdopen >}}
 
 
-Class format and structure ([PDF]({{< baseurl >}}/resources/part1a))
+Class format and structure ({{< resource_link a5d006ff-bd2e-389a-0e02-a7a2a8cf83a5 "PDF" >}})
 
-Modeling fluid flow ([PDF]({{< baseurl >}}/resources/part1b))
+Modeling fluid flow ({{< resource_link 22a15645-d089-3ea6-7b3d-fcfc4c03b6aa "PDF" >}})
 
 
 {{< tdclose >}}
@@ -42,7 +43,7 @@ Modeling fluid flow ([PDF]({{< baseurl >}}/resources/part1b))
 II
 {{< tdclose >}}
 {{< tdopen >}}
-Pressure fields and upstream influence ([PDF]({{< baseurl >}}/resources/part2))
+Pressure fields and upstream influence ({{< resource_link 288b9fec-7ab3-c118-efc2-6f79de82562b "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
