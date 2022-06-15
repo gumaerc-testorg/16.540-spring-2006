@@ -1,9 +1,11 @@
 ---
 content_type: page
+description: This section provides information about the course text, and includes
+  the supplementary reading list which provides a different perspective on the topics
+  covered.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: f6b91f06-f034-47cb-9f7d-54407a740f82
 ---
