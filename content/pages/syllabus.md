@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the overall course content and scope, and information
+  about lectures, the text for the class, course grading and assignments, learning
+  objectives, and measurable outcomes for 16.540.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ec9fb676-30c0-4fc5-d6e7-6b181554bdf0
 ---
@@ -130,7 +135,7 @@ Measurable Outcomes for 16.540
 
 Measurable outcomes are just what the name implies, in other words those items that follow directly from the learning objectives and that we can explicitly measure. In the outcomes below the verbs in **bold** denote the actions that will be carried out, the phrases in _italics_ describe how these will be assessed, and the words in UPPER CASE define the connection with Bloom's taxonomy of knowledge, which is described here:
 
-Bloom's Taxonomy of Knowledge ([PDF]({{< baseurl >}}/resources/syllbloomtaxon))
+Bloom's Taxonomy of Knowledge ({{% resource_link 351f515b-b32e-0ea5-fe66-1f8317169220 "PDF" %}})
 
 Note there are different levels of engagement with these objectives (and with different aspects of the subject); we do not expect you to be at the highest level in everything that is covered. In some aspects, for example, we expect you to comprehend and be able to use, with the expectation that in the future your engagement with these concepts is such that you will move up the hierarchy.
 

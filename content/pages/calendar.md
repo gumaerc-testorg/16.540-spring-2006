@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The calendar of the class is presented in this section. Six major topics
+  are covered in twenty-five lectures. For each topic, the instructor is given. EG
+  refers to Prof. Edward Greitzer, and CT refers to Dr. Choon Tan.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 9276d82b-9dde-1ca7-76e5-c376892b75c8
 ---
