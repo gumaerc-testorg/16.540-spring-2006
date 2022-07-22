@@ -6,6 +6,7 @@ file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/39b61b94317623
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: part5a.pdf
 uid: 39b61b94-3176-23b9-4dc7-148c240741c5
 ---
 This resource gives information about flow in rotating ducts and flow on the rotating earth.
-

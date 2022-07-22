@@ -5,6 +5,7 @@ file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/dc88170cd07585
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cquiz1.pdf
 uid: dc88170c-d075-85e8-7538-86aa7aec78a7
 ---
 This resource contain an example concept quiz.
-

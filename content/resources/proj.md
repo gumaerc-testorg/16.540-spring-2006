@@ -5,6 +5,7 @@ file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/caa3c78144e58e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: proj.pdf
 uid: caa3c781-44e5-8e77-0e16-7b8ab1d80a1a
 ---
 Project Description for the Team Modeling Project.
-

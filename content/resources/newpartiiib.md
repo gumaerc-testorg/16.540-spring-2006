@@ -5,6 +5,7 @@ file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/330cace3895b12
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/eaeeaa23deeeec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: cq1_c.pdf
 uid: eaeeaa23-deee-ece9-dcc8-73741a88b305
 ---
 This resource contain question and its solution on Concept questions.
-
