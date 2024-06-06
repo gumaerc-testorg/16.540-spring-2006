@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information on team angular momentum.
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/7f49d6a851e40a0441a59a02a3441ffa_cq1_a.pdf
+file_size: 36441
 file_type: application/pdf
 learning_resource_types:
 - Assignments
