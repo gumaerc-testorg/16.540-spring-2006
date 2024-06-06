@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/1b5ae36ccf22e28ca3d2604809f5d12f_newpartv.pdf
+file_size: 260334
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
