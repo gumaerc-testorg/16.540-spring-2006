@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture slides about modeling fluid flow, the evolution of engineering
   computation methods, interpretation of the quotations, endwall blockage in axial
   compressors, levels of modeling, approach to damping augmentation, and a summary.
-file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/22a15645d0893ea67b3dfcfc4c03b6aa_part1b.pdf
+file: /ol-ocw-studio-app/courses/16-540-internal-flows-in-turbomachines-spring-2006/22a15645d0893ea67b3dfcfc4c03b6aa_part1b.pdf
 file_size: 616270
 file_type: application/pdf
 learning_resource_types:
