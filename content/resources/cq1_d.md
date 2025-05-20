@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contain Concept questions.
-file: /ol-ocw-studio-app/courses/16-540-internal-flows-in-turbomachines-spring-2006/070724f7c37f9d35a2005c2988c4b6d6_cq1_d.pdf
+file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/070724f7c37f9d35a2005c2988c4b6d6_cq1_d.pdf
 file_size: 122675
 file_type: application/pdf
 learning_resource_types:
