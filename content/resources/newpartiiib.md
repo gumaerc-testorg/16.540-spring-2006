@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/16-540-internal-flows-in-turbomachines-spring-2006/330cace3895b12656c1534ed86d61ea9_newpartiiib.pdf
+file: /courses/16-540-internal-flows-in-turbomachines-spring-2006/330cace3895b12656c1534ed86d61ea9_newpartiiib.pdf
 file_size: 1035710
 file_type: application/pdf
 learning_resource_types:
