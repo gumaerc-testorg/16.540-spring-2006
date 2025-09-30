@@ -277,7 +277,7 @@ Batchelor, G. K. _An Introduction to Fluid Dynamics._ Cambridge, UK: Cambridge U
 
 Johnston, J. P. "Internal Flows." In _Turbulence_. Edited by P. Bradshaw. New York, NY: Springer-Verlag, 1976. ISBN: 9780387077055.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, J. A. [_Introduction to Fluid Mechanics_](https://mitpress.mit.edu/9780262061650). Cambridge, MA: MIT Press, 1994. ISBN: 9780262061650.
+{{% resource_link "3e3ac0bd-bad9-43b2-91dc-51f5abc1dabc" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Fay, J. A. {{% resource_link "3e3ac0bd-bad9-43b2-91dc-51f5abc1dabc" "_Introduction to Fluid Mechanics_" %}}. Cambridge, MA: MIT Press, 1994. ISBN: 9780262061650.
 
 Sabersky, R., A. Acosta, and E. Hauptmann. _Fluid Flow: A First Course in Fluid Mechanics_. New York, NY: MacMillan Publishers, 1998. ISBN: 9780135763728.
 
@@ -300,7 +300,7 @@ Batchelor, G. K. _An Introduction to Fluid Dynamics._ Cambridge, UK: Cambridge U
 
 Lighthill, J. _An Informal Introduction to Theoretical Fluid Mechanics_. Oxford, UK: Oxford University Press, 1988. ISBN: 9780198536307.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262640121) National Committee. [_Illustrated Experiments in Fluid Mechanics_](https://mitpress.mit.edu/9780262640121). Cambridge, MA: MIT Press, 1972. ISBN: 9780262640121. (See especially the chapter on Vorticity by Shapiro).
+{{% resource_link "42e72f05-6db0-48fd-aee2-60fbda5132f2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} National Committee. {{% resource_link "42e72f05-6db0-48fd-aee2-60fbda5132f2" "_Illustrated Experiments in Fluid Mechanics_" %}}. Cambridge, MA: MIT Press, 1972. ISBN: 9780262640121. (See especially the chapter on Vorticity by Shapiro).
 
 Panton, P. _Incompressible Flow_. New York, NY: Wiley, 2005. ISBN: 9780471261223.
 
